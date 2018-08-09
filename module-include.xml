@@ -1,0 +1,17 @@
+<!-- Module Include File -->
+
+<!-- Types -->
+<types> 
+
+  	<!-- Tools -->
+  	<type class="com.tekworx.cx.web.BCxGauge" name="CxGauge" />
+	<type class="com.tekworx.cx.web.BCxYearlyEfficiencyProfile" name="CxYearlyEfficiencyProfile" />
+	<type class="com.tekworx.cx.web.BCxOptimizationHoursLog" name="CxOptimizationHoursLog" />
+	<type class="com.tekworx.cx.web.BCxUtilitySavingsTool" name="CxUtilitySavingsTool" />
+	<type class="com.tekworx.cx.web.BCxEfficiencyMap" name="CxEfficiencyMap" />
+	<type class="com.tekworx.cx.web.BCxCarbonSavings" name="CxCarbonSavings" />
+  <type class="com.tekworx.cx.web.BCxRampJSView" name="CxRampJSView"><agent><on type="kitControl:Ramp"/></agent></type>
+	<type class="com.tekworx.cx.web.BCxNumericJSView" name="CxNumericJSView"><agent><on type="kitControl:NumericWritable"/></agent></type>
+	
+	
+</types>
